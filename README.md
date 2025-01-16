@@ -24,9 +24,7 @@ The Reveal BI SDK empowers developers to create interactive and dynamic dashboar
 
 Watch the step-by-step guide for this project on YouTube:
 
-```markdown
 [![Watch the video](https://img.youtube.com/vi/RPUpJt6POj8/0.jpg)](https://youtu.be/RPUpJt6POj8)
-```
 
 ## 🛠️ Key Concepts
 
