@@ -24,10 +24,9 @@ The Reveal BI SDK empowers developers to create interactive and dynamic dashboar
 
 Watch the step-by-step guide for this project on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/7AzNVZPgMeg/0.jpg)](https://youtu.be/7AzNVZPgMeg)
-
-
-
+```markdown
+[![Watch the video](https://img.youtube.com/vi/RPUpJt6POj8/0.jpg)](https://youtu.be/RPUpJt6POj8)
+```
 
 ## 🛠️ Key Concepts
 
@@ -119,13 +118,7 @@ function drawMap(data) {
 ### 7. Test and Deploy
 
 - Run the .NET Core in the Server folder
-- Open Index.html in the Client folder
-
-```bash
-npm start
-```
-
-Open your browser to see the visualization update dynamically based on user interaction.
+- Open Index.html in the Client folder to run the sample
 
 
 ## 📚 Additional Resources
