@@ -124,6 +124,8 @@ function drawMap(data) {
 - **Reveal BI Documentation**: [https://www.revealbi.io/](https://www.revealbi.io/)
 - **D3 Graph Gallery**: [https://www.d3-graph-gallery.com/](https://www.d3-graph-gallery.com/)
 - **Source Code**: [https://github.com/RevealBi-CustomViz/D3FlightMap](https://github.com/RevealBi-CustomViz/D3FlightMap)
+- **More Custom Viz Samples**: [https://github.com/RevealBi/sdk-samples-javascript/tree/main/CustomVisualization
+](https://github.com/RevealBi/sdk-samples-javascript/tree/main/CustomVisualization)
 
 ---
 
